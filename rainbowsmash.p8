@@ -2,6 +2,8 @@ pico-8 cartridge // http://www.pico-8.com
 version 8
 __lua__
 u=2
+
+//Ich bin ein Kommentar
 function _init()
 
 sfx(11)
